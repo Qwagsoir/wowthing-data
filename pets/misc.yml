@@ -1,11 +1,19 @@
 name: Miscellaneous
 groups:
 
+- name: Guild Vendor
+  things:
+  - 282 283 # Guild Herald
+  - 280 281 # Guild Page
+  - 272 # Armadillo Pup - Critter Kill Squad
+  - 270 # Dark Phoenix Hatchling - United Nations
+  - 1449 # Deathwatch Hatchling - Challenge Warlords: Gold - Guild Edition
+  - 320 # Lil' Tarecgosa - Dragonwrath, Tarecgosa's Rest - Guild Edition
+
 - name: Promotions
   things:
   - 244 # Core Hound Pup (Authenticator)
   - 1639 # Graves (Heroes of the Storm)
-  - 2776 # Rikki (RAF)
 
 - name: PvP
   things:
